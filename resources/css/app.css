@@ -1,0 +1,22 @@
+/* Space-inspired Navbar */
+.navbar-dark {
+    background: linear-gradient(90deg, #000428, #004e92); /* Space-inspired gradient */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #00d4ff;
+}
+
+.navbar-dark .navbar-brand {
+    font-family: 'Orbitron', sans-serif; /* NASA-inspired font */
+    letter-spacing: 2px;
+}
+
+.navbar-toggler {
+    border-color: #00d4ff;
+}
